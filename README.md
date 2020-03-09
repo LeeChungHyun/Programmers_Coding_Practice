@@ -22,6 +22,7 @@
 * <Sorting_Algoritm>
 ```
 1. k번째 수
+2. 가장 큰 수
   
 ```
 
