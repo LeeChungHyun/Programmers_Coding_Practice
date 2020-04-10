@@ -48,6 +48,7 @@
 * <Dynamic_Programming>
 ```
 1. 체육복
+2. 큰수 만들기
   
 ```
 ***
