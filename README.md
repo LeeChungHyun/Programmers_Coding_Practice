@@ -45,7 +45,7 @@
 
 ```
 
-* <Dynamic_Programming>
+* <Greedy_Algorithm>
 ```
 1. 체육복
 2. 큰수 만들기
