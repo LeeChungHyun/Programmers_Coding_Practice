@@ -36,7 +36,7 @@
   
 ```
 
-* <Brute_Force Search>
+* <Complete_Search>
 ```
 1. 모의고사
 2. 카펫
